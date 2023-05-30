@@ -8,7 +8,7 @@ web automatic adaptation
 npm i @phaoerjs/auto-resize
 ```
 
-## Useage
+## Usage
 
 ```javascript
 autoResize({
